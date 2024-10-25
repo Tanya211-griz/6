@@ -1,0 +1,15 @@
+form {
+    display: grid;
+    grid-gap: 7px;
+    justify-content: center;
+}
+
+#result {
+    min-height: 50px;
+    font-weight: bold;
+}
+
+#result {
+    text-align: center;
+    font-size: xx-large;
+}
